@@ -1,0 +1,6 @@
+{
+  "name": "Incident Memory OS",
+  "description": "An AI Incident Response Agent that learns from every production incident using Hindsight organizational memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
